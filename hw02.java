@@ -1,13 +1,14 @@
 
-public class hw02 {
-
-	public static void main(String[] args) {
+public class hw02
+{
+	public static void main(String[] args) 
+	{
 		// TODO Auto-generated method stub
 		int num = 12,den = 0;
 		int ans;
 		
 		if(den==0)
-			System.out.println("°£¼Æ¬° 0");
+			System.out.println("Â°Â£Â¼Ã†Â¬Â° 0");
 		else
 		{
 			ans = num/den;
