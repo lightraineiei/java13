@@ -1,7 +1,8 @@
 
 public class hw04 
 {
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		// TODO Auto-generated method stub
 		int num = 12;
 		int den[] = {12,0,3,0,0,4};
@@ -10,7 +11,7 @@ public class hw04
 		{
 			if(den.length<i || den[i]==0)
 			{
-				System.out.println("µ{¦¡°õ¦æ¦³»~");
+				System.out.println("Âµ{Â¦Â¡Â°ÃµÂ¦Ã¦Â¦Â³Â»~");
 				break;
 			}
 			else
